@@ -6,14 +6,14 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="left">
-    <em> 🛑 Don't repeat yourself! 🛑 </em>
+    <em> Make it work, Make it right, Make it fast! </em>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer;Node%20and%20Python%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Lobster&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Developer;Node%20and%20Python%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Lobster&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500"> -->
 
-### :purple_heart: Underpromise and overdeliver :hearts:
+<!-- ### :purple_heart: Underpromise and overdeliver :hearts:
 
---------
+-------- -->
 
 <a href="#"><img align="right" height="250" width="375" alt="" src="https://www.weblineindia.com/wp-content/uploads/2019/08/Business.gif"/></a>
 
@@ -102,7 +102,7 @@
 </p>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<div align="center">
+<!-- <div align="center">
     <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
     <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
@@ -110,4 +110,4 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rickytree}/count.svg" /></p> 
-</div>
+</div> -->
